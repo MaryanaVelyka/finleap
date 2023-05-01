@@ -22,7 +22,7 @@
 
   <properties>
     <selenide.version>5.5.1</selenide.version>
-    <testng.version>7.1.0</testng.version>
+    <testng.version>7.7.0</testng.version>
   </properties>
 
   <dependencies>
